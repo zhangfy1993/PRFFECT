@@ -1,4 +1,4 @@
-# PRRFECT
+# PRFFECT
 
 Please read the manual.
 
