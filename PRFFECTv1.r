@@ -36,11 +36,11 @@ source("user_defined_input.R")
 
 ### Version 0.1.4  Derivatives now more sensibly written into function
 
-### Fruit 0.1.4a  Rubberband has bg.p/5000 based on overall signal level of spectra
+### 
 
-### Olive oil 0.1.4a Rubberband set to bg.p/200
+### Version 0.1.4a Rubberband set to bg.p*3
 
-### Coffee 0.1.4a Rubberband set to bg.p*3
+### Version 0.1.5 Rubberband now settable via RBp
 #######################################################
 #
 # Functions
