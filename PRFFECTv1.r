@@ -55,7 +55,6 @@ library(ggplot2)     # ^
 library(randomForest)	#randomForest() used to train Random Forests
 library(xtable)		#xtable() used to write .tex and .html files
 library(caret)		#createDataPartition() used to create training/testing split
-library(sfsmisc)	#D1ss() and D2ss() used for numerical first and second derivatives
 library(prospectr) #implements new derivatives with SG smoothing
 library(signal)    # for sgolayfilt
 library(rwt)      #for wavelet denoising
