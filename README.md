@@ -4,7 +4,7 @@ Please read the manual.
 
 All packages should be installed using install.packages("<pkg_name>", dependencies = TRUE)
 
-The folder trial_run contains files which are intended to be a demonstration.  Please use the example provided to test your R setup.  This folder is self-contained, and the whole process of set selection, pre-processing and classification can be done in the same directory.
+The archive trial_run contains files which are intended to be a demonstration.  Please use the example provided to test your R setup.  This folder is self-contained, and the whole process of set selection, pre-processing and classification can be done in the same directory.  Please extract this to a folder of your choice on your computer.  Please read the README in the extracted folder to begin the demonstration.
 
 Archive example_input.zip contains a full spectral dataset and a training and test set created from that dataset.
 
